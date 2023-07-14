@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile React Native Developer
 -----------------------------
 
-As a Mobile React Native Developer with 4 years of experience, I am proficient in utilizing Redux, React hooks, ES6, JavaScript, and TypeScript
+As a Mobile React Native Developer with 4 years of experience, I am proficient in utilizing Redux, React hooks, ES6, JavaScript, and TypeScript, In addition to that, I also have secondary skills in HTML5, CSS, jQuery, and Bootstrap.
 
 * 🌍  I'm based in Bangkok, Thailand
 
